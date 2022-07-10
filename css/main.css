@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Merriweather:wght@300&family=Roboto&family=Source+Sans+Pro&display=swap');
+
+
+body {
+    background-color: #2596be;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: #f5a841;
+}
+
+p {
+    color: gray;
+    font-size: 15px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+/*class block*/
+
+.container {
+    margin-top: 50px;
+    height: 500px;
+}
+
+.conrainerTwo {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    background-color: white;
+    width: 400px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    margin: 50px 30px;
+}
